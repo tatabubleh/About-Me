@@ -1,0 +1,11 @@
+.book {
+    padding: 30px 0;
+
+    &__favorite {
+        padding: 30px 0;
+        max-width: 600px;
+        font-size: 1.25rem;
+        font-weight: 300;
+        margin: 0 auto;
+    }
+}

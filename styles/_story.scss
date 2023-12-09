@@ -1,0 +1,20 @@
+.story {
+    font-size: 1.8rem;
+    font-weight: 450px;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 60px 0 30px;
+
+    &__IT {
+        border: dashed 5px #8C49B2;
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .story {
+        font-size: 1.5rem;
+        font-weight: 400px;
+        max-width: 600px;
+    }
+}
